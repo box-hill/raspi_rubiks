@@ -1,0 +1,3 @@
+/home/pi/Desktop/raspi_rubiks/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/raspi_rubiks/CMakeFiles/main.dir
+/home/pi/Desktop/raspi_rubiks/CMakeFiles/edit_cache.dir
